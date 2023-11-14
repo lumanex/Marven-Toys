@@ -47,7 +47,7 @@ Sales Data: The primary dataset for this analysis is a set of CSV files namely "
 
 
 
-In the intial preparation stage, i impoted the datas from PostgreSQL to Power BI
+In the intial preparation stage, i imported the data from PostgreSQL to Power BI
 
 
 
