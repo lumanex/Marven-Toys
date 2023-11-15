@@ -25,6 +25,13 @@
 This Sales Analysis Project aims to provide insights into the sales performance of Marven Toys for a two year period (2017-2018). I will be analysing trends, patterns that will help me make data driven recomendations that will guide Marven Toys in their expansion project.  
 
 
+![Projectuse](https://github.com/lumanex/Marven-Toys/assets/112433135/6f464236-6d64-4236-b057-ace971df2fa4)
+
+
+
+![Projectuse2](https://github.com/lumanex/Marven-Toys/assets/112433135/e4c8ff82-5ec3-4b00-a18b-a5eaa5d5fb6c)
+
+
 
 ### Data Source 
 
